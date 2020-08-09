@@ -16,4 +16,8 @@
   utilizza Math.ceil (arrotonda sempre all'intero superiore).
 
   http://www.imparareaprogrammare.it
-*/
+*/var cats=20
+var Lines=6
+
+var InLines=Maths.ceil(cats/inLine);
+var missing=(numLines"inLines)-cats";
